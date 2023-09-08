@@ -1,0 +1,15 @@
+#{
+  box-sizing: border-box;
+  padding: 0;
+}
+
+body{
+  background-color: bisque;
+}
+.image{
+  width: 200px;
+  height: 200px;
+}
+span{
+  color: blue;
+}
